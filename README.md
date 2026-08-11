@@ -1,4 +1,4 @@
-# Telco Customer Churn Analysis
+# Customer Behaviour & Business Performance Analysis
 
 ## Project Overview
 
@@ -6,16 +6,16 @@ This project analyzes customer churn patterns using the Telco Customer Churn dat
 
 ## Business Problem
 
-ABC Communications Ltd wants to better understand customer churn and identify customer segments and service patterns associated with higher churn.
+ABC Communications Ltd wants to investigate customer churn and provide business insights that support customer retention strategies.
 
 ## Objectives
 
-- Measure customer churn and churn rate
-- Identify customer segments with higher churn
-- Examine the relationship between tenure and customer behavior
-- Analyze service adoption using ServiceCount
-- Explore the relationship between selected customer variables using correlation analysis
-- Develop an interactive Excel dashboard to support business decision-making
+• Understand a business problem.
+• Explore and analyse business datasets.
+• Identify trends and patterns.
+• Create professional visualisations.
+• Develop business recommendations.
+• Present findings professionally.
 
 ## Dataset
 
@@ -46,17 +46,33 @@ The project uses:
 - Slicers
 - KPI calculations
 - Box plot analysis
-- Correlation analysis
 - Correlation heat map
 - Interactive dashboard
 
 ## Key Findings
 
-Key findings from the final analysis will be documented here after the dashboard and analysis have been finalized.
+1. Month-to-month customers have meaningfully higher churn than customers on one- or two-year contracts.
+
+2. Longer-tenured customers tend to have greater service adoption, reflected in the moderate tenure–Service Count correlation.
+
+
+3. Fiber optic customers have the highest churn rate, despite the service being a higher-value offering.
+
+4. Compared with the relationship between tenure and service adoption, the correlation involving Senior Citizen is relatively weak.
+
+5. Monthly charges should be considered alongside factors such as contract type and tenure rather than treated as an isolated cause of churn.
 
 ## Recommendations
 
-Recommendations will be based on the final analytical findings and will focus on customer retention and higher-risk customer segments.
+1. Create targeted retention campaigns for month-to-month customers and encourage migration to one-year or two-year contracts.
+
+2. Review fiber customers' service quality, pricing, installation experience, complaints, and support interactions.
+
+3. Provide incentives for customers to remain longer, such as loyalty benefits, contract upgrades, bundled services, or preferential offers.
+
+4. Create a structured engagement process for newer customers, including onboarding communication, service education and early satisfaction checks.
+
+5. Analyze churn across monthly-charge bands and customer segments to determine whether particular pricing or service combinations require attention.
 
 ## Dashboard
 
