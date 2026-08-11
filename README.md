@@ -93,3 +93,5 @@ The project uses:
 - [Dataset Inspection Report](reports/Dataset_Inspection_Report.pdf)
 - [Excel Analysis Workbook](excel/Telco_Churn_Analysis.xlsx)
 - [Presentation](presentation/Telco_Churn_Analysis.pptx)
+
+ **Note:** The findings describe patterns and associations identified in the available customer data. Correlation and distributional analysis do not establish that a particular factor directly causes customer churn.
